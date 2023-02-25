@@ -13,7 +13,7 @@ return result;
 }
 
 Console.Clear();
-string number = Promt ("Введите пятизначное число: ");
+string number = Promt("Введите пятизначное число: ");
 int quantity = number.Length;
 if (quantity == 5)
     {
